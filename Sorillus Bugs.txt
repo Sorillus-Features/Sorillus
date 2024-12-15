@@ -9,4 +9,7 @@ Subject : new bug! Remote camera
 
 The camera cannot be opened with a target, even if it is opened twice, it only says “the camera is already open”
 
+DEBUG: Initializing menus for client: root
+DEBUG: No OS restriction for panel "Remote-Camera"
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
