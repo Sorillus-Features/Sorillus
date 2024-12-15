@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : new bug! Start Message Builder!
+
+If you build a java client with any message builder (category icon) and then restart your system and restart your sorillus 
+you can see at “Builder Binder” that there is nothing in the field “Category Icon” of the Message Builder or it does not save!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------

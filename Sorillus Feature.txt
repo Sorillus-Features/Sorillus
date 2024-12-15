@@ -1,0 +1,102 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : Categories in the Bug Report module!
+
+That you might be able to select categories and specify what you have found, example:
+
+> Bug
+> feedback
+> a new function
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : new function! tabs file manager!
+
+It would be so cool to have multiple tabs in the file manager, like in the new Windows 11 Explorer, 
+that you can get back to where you were faster, e.g. if you want to cut or copy something
+and then simply drag it into the second tab, or that you can simply start the File Manager twice thx
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : new function! DDOS tool!
+
+That you can send a DDoS command via the victim
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : new function! GPS/location data!
+
+It would be mega cool if you could retrieve the location or GPS data via
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : New function! System Audio!
+
+That you can hear the microphone is good, but that you can also hear the system audio 
+would be even better, that you can also hear people in game or people in Discord 
+that would be mega if they add it
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : New function! Device information!
+
+As the subject already says, just more specific information about the system/OS e.g.
+
+The name of the operating system (e.g. Windows 10, Ubuntu, macOS, etc.).
+Version of the system
+Version and build number of the operating system (e.g. Windows 10 version 22H2, Ubuntu 20.04 LTS).
+License
+The license type under which the operating system is distributed (e.g. open source, proprietary, freeware, commercial).
+License number / key
+For commercial operating systems (such as Windows or macOS), a license number or product key.
+System architecture
+Architecture of the system (e.g. 32-bit, 64-bit).
+Processor (CPU)
+Details of the CPU used (e.g. Intel Core i7, AMD Ryzen 5, clock frequency).
+Memory (RAM)
+Amount of RAM installed (e.g. 8 GB, 16 GB).
+Hard disk storage / SSD
+Capacity and type of storage (e.g. 500 GB HDD, 1 TB SSD).
+Graphics card
+Information on the installed graphics card (e.g. NVIDIA GeForce GTX 1660, AMD Radeon RX 580).
+Network cards / WLAN
+Information on the network card and WLAN function (e.g. 1 Gbit Ethernet, 802.11ac WLAN).
+Drivers
+Information on installed drivers and their versions.
+Installed software
+A list of the installed software and applications running on the operating system.
+User accounts
+Information on local users or domain users (e.g. administrator rights, group memberships).
+Security functions
+Information about the update status (e.g. automatically installed updates, last system update).
+Operating system status
+System status such as system integrity, activation status (whether the operating system is activated) and hardware detection.
+Language settings
+The current system language and regional settings.
+Energy settings
+Information on the energy options (e.g. energy-saving mode, screen brightness).
+Virtualization functions
+Whether virtualization functions such as Hyper-V (Windows) or KVM (Linux) are activated.
+Connected devices
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : New function! Speedtest!
+
+that you can easily see via speedtest.com e.g. how fast the line/download and upload is.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : New function! Delete logs!
+
+yes that you can close sorillus to delete logs is quite cool, but an extra button would be nice
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : new function! File Manager files/folder information!
+
+that you have a properties button like in the Windows10/11 Explorer that you can 
+see how big? The folder is and how many folders/files are inside
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : New function! File manager control boxes!
+
+that you can select multiple files and delete/download multiple files
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Subject : new function! Injection interval!
+
+that you can say that the Java only connect after 10/20/30 seconds
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
