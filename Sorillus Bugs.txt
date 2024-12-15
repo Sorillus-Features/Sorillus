@@ -7,8 +7,6 @@ you can see at “Builder Binder” that there is nothing in the field “Catego
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Subject : new bug! Remote camera
 
-Remote camera
-
 The camera cannot be opened with a target, even if it is opened twice, it only says “the camera is already open”
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
